@@ -1,6 +1,6 @@
 ## Hi, I'm Anas Bin Sohail ([@Anas](https://github.com/anassohail99))
 
-#### A passionate Software Engineer with vast experience in Blockchain and Web3 Technologies.
+#### A passionate Software Engineer with experience in Blockchain and Web3 Technologies.
 
 [![GitHub Anas](https://img.shields.io/github/followers/anassohail99?label=follow&style=social&cacheSeconds=86400)](https://github.com/anassohail99)
 [![Linkedin Anas](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anas-bin-sohail-3a6168168&cacheSeconds=864000)](https://www.linkedin.com/in/anas-bin-sohail-3a6168168)
