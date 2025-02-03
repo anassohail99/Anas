@@ -42,12 +42,9 @@
   <b>Technologies</b>
 </summary>
   
-- **Advanced:** Solidity, JavaScript/Typescript, React, Web3
+- **Advanced:** Solidity, JavaScript, Typescript, React, Web3
 
 </details>
-
-
-![trophy](https://github-profile-trophy.vercel.app/?username=anassohail99&theme=onedark&column=8)
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anassohail99&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
